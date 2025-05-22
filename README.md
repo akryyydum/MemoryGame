@@ -22,3 +22,27 @@ Match it with its identical pair.
 Find all the matches as fast as you can.
 
 Finish quickly to secure your spot on the leaderboard!
+
+### 🛠 How to Run in Android Studio
+Clone the Repository
+
+git clone https://github.com/your-username/flip-frenzy.git
+Open in Android Studio
+
+Open Android Studio.
+
+Click on File > Open, and select the cloned project folder.
+
+Sync the Gradle Files
+
+Android Studio will automatically detect the build.gradle files.
+
+Wait for Gradle to finish syncing.
+
+Run the App
+
+Connect an Android device or launch an emulator.
+
+### Click the Run button ▶️ or press Shift + F10 to build and launch the app.
+
+### Enjoy the Game! 🎉
